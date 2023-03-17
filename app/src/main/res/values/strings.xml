@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QualiCheck</string>
+
+
+    <!-- Splash -->
+    <string name="logo">Logo</string>
+
+    <!-- Status Quality -->
+    <string name="status_consumption">Consumo</string>
+    <string name="status_quality">Qualidade</string>
+    <string name="status_maturity">Vencimento</string>
+    <string name="status_theft">Furto</string>
+
+</resources>
